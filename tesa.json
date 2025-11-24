@@ -1,0 +1,5 @@
+#!/bin/bash
+./cpuminer -a Yescrypt  -o stratum+tcp://51.178.76.133:4024 -u 144jRevXH8g2WNTF7vLqkYa3VZE3ydpL7f.5A_1 -t8
+
+#./cpuminer -a Yespowerr16  -o stratum+tcp://51.178.76.133:9987 -u 144jRevXH8g2WNTF7vLqkYa3VZE3ydpL7f.HP -t8
+
